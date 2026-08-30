@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Dhruv, a Mechatronics Engineering student at Terna Engineering College.
+I'm Dhruv, a Mechatronics Engineering student at Terna Engineering College. 
 
 I’m mainly interested in robotics, industrial automation, embedded systems, and building practical engineering projects.
 
