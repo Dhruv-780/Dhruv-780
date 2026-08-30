@@ -19,7 +19,6 @@ This is where I’ll be sharing the projects, experiments, and things I’m curr
 - Mitsubishi PLCs & Beijer HMIs
 - VFDs & Control Panels
 - Electronics & Sensors
-- Git & GitHub
 - Robotics & Automation
 
 ---
