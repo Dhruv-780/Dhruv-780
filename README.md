@@ -26,11 +26,7 @@ This is where I’ll be sharing the projects, experiments, and things I’m curr
 
 ## A Bit About Me
 
-- 🤖 I enjoy building robots and practical electronics projects
-- ⚙️ Interested in industrial automation and robotics
-- 💻 Currently improving my C++ and problem-solving skills
-- 🔧 I like understanding how things work by building them myself
 - ♟️ I enjoy chess and learning about history
 - ⚽ I follow European football and tennis
 - 🎹 I also play the piano
-- 🚀 Always looking to learn something new
+- 🎬 Always up for a good movie or series
