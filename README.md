@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Dhruv-780/Dhruv-780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dhruv, a Mechatronics Engineering student at Terna Engineering College.
 
-Here are some ideas to get you started:
+I’m mainly interested in robotics, industrial automation, embedded systems, and building practical engineering projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During a six-month internship at SAAN Engineers, I worked with Mitsubishi PLCs, Beijer HMIs, VFDs, and control panels for pharmaceutical machinery.
+
+I’m currently developing my skills in C++, Arduino, electronics, embedded systems, and robotics while exploring different areas of automation and engineering.
+
+This is where I’ll be sharing the projects, experiments, and things I’m currently learning and building.
+
+---
+
+## Tools & Tech
+
+- C++, Arduino, Embedded Systems
+- PLCs, HMI, SCADA
+- Mitsubishi PLCs & Beijer HMIs
+- VFDs & Control Panels
+- Electronics & Sensors
+- Git & GitHub
+- Robotics & Automation
+
+---
+
+## A Bit About Me
+
+- 🤖 I enjoy building robots and practical electronics projects
+- ⚙️ Interested in industrial automation and robotics
+- 💻 Currently improving my C++ and problem-solving skills
+- 🔧 I like understanding how things work by building them myself
+- ♟️ I enjoy chess and learning about history
+- ⚽ I follow European football and tennis
+- 🎹 I also play the piano
+- 🚀 Always looking to learn something new
